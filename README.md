@@ -6,7 +6,7 @@ PrintMate membantu vendor percetakan merchandise (misalnya stiker, pin, gantunga
 
 ## Status Fitur
 
-- Autentikasi: Belum
+- Autentikasi: sedang dikerjakan
 - Kategori: Belum
 - Bahan Baku: Belum
 - Produk: Belum
@@ -18,3 +18,9 @@ PrintMate membantu vendor percetakan merchandise (misalnya stiker, pin, gantunga
 #### Minggu 1
 - Penyusunan SRS (Software Requirement Specification)
 - Membuat repository, push README
+
+#### Minggu 2 (26 november 2026)
+- Inisialisasi project Android Studio
+- Penambahan dependensi dan izin akses
+- Pembuatan SessionManager untuk penyimpanan token sesi
+- Pembuatan kerangka navigasi awal dengan Navigation Compose 
